@@ -1,0 +1,30 @@
+# History files
+.Rhistory
+
+# Solution files
+solutions/*
+divers/*
+enonces/notshow
+enonces/notshow/*
+data/notshow
+data/notshow/*
+
+# Example code in package build process
+*-Ex.R
+
+# R data files from past sessions
+.Rdata
+
+# RStudio files
+.Rproj.user/
+.Rproj.user
+*.Rmd
+*.Rproj
+
+# Mac .DS_Store
+.DS_Store
+
+
+# Specific fiiles
+ctr.R
+exo2.R
